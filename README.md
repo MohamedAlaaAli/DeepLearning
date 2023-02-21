@@ -21,9 +21,9 @@ This repository aims to provide resources for DL  for SBME2025
 	
 	**Lets structure it a bit more to help you decide which way to go:**
 	First categotrtize yourself (Remember that the only person you should not fool is yourself)
-	**IF Iam a beginner in programming then go for MIT60001 and ThinkPython study them really carefully then apply on datacamp**
-	**I know programming but not in python go for w3hschools to get familier with python syntax then go for MIT60001 lecture 8, 9 only**
-	**Already a pythonista just go for OOP FROM elzero as a fast revision and you are good to go**
+	**IF Iam a beginner in programming then go for MIT60001 and ThinkPython study them really carefully then apply on datacamp**<br>
+	**I know programming but not in python go for w3hschools to get familier with python syntax then go for MIT60001 lecture 8, 9 only**<br>
+	**Already a pythonista just go for OOP FROM elzero as a fast revision and you are good to go**<br>
 	
 
 ------------
