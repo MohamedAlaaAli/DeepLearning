@@ -17,6 +17,8 @@ This repository aims to provide resources for DL  for SBME2025
 		DataCamp is not the best for understaning however I think it has a good practical side which makes things much faster but I think it is crucial to have deep understanding of the topics.
 	1. [OOP ELZERO](https://www.youtube.com/watch?v=V7WP_402HE0&list=PLUgz8T_NoattU54gGARPXPmmawQNl-1_T "OOP ELZERO")
 	1. [w3hschools](https://www.w3schools.com/ "w3hschools")
+	1. [DataCamp OOP ](https://campus.datacamp.com/courses/object-oriented-programming-in-python/inheritance-and-polymorphism?ex=1 "DataCamp OOP ")
+		For anyone who wants to get his hands into python I recommend this course 
 	Remember that searching is always needed you will never find a complete resource or the state of art road map 
 	
 	**Lets structure it a bit more to help you decide which way to go:**
